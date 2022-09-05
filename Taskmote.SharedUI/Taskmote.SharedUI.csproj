@@ -29,9 +29,11 @@
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\sample-data\" />
     <Folder Include="Services\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Services\" />
+    <None Remove="Extensions\" />
   </ItemGroup>
 </Project>
